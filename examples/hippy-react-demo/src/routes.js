@@ -187,4 +187,12 @@ export default [
       style: 2,
     },
   },
+  {
+    path: '/Eric',
+    name: 'Eric的页面',
+    component: PAGE_LIST.Eric,
+    meta: {
+      style: 2,
+    },
+  },
 ];
